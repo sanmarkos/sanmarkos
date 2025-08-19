@@ -20,23 +20,27 @@ For me, learning is a continuous journey, and I love building projects that refl
 
 ## Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
 ## GitHub Stats
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanmarkos&show_icons=true&theme=github_dark&hide_border=true&card_width=450" alt="GitHub stats" />
+</p>
 
-![Sutharsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanmarkos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanmarkos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F700)  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmarkos&layout=compact&theme=github_dark&hide_border=true&card_width=450" alt="Top Languages" />
+</p>
 
 ---
 

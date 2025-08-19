@@ -11,14 +11,14 @@ For me, learning is a continuous journey, and I love building projects that refl
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sutharsansenthil/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sutharsansenthil46@gmail.com)  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -29,10 +29,14 @@ For me, learning is a continuous journey, and I love building projects that refl
 
 ---
 
+## GitHub Stats
+
 ## 📊 GitHub Stats
 
-![Sutharsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanmarkos&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanmarkos&layout=compact&theme=radical)  
+![Sutharsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanmarkos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanmarkos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F700)  
+
 
 ---
 

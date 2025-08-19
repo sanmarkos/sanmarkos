@@ -24,7 +24,7 @@ For me, learning is a continuous journey, and I love building projects that refl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="44" alt="Bash"/>
+  <img src="https://cdn.simpleicons.org/gnubash/ffffff" height="44" alt="Bash"/>
   <!-- Light (white) icons via Simple Icons CDN -->
   <img src="https://cdn.simpleicons.org/wireshark/ffffff" height="44" alt="Wireshark"/>
   <img src="https://cdn.simpleicons.org/splunk/ffffff" height="44" alt="Splunk"/>
@@ -32,8 +32,6 @@ For me, learning is a continuous journey, and I love building projects that refl
 
 
 ---
-
-## GitHub Stats
 
 ## GitHub Stats
 <p align="center">

@@ -25,8 +25,8 @@ For me, learning is a continuous journey, and I love building projects that refl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wireshark_icon.svg" width="50" height="50" alt="Wireshark"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/splunk-1.svg" width="50" height="50" alt="Splunk"/>
 </p>
 
 ---
@@ -35,11 +35,11 @@ For me, learning is a continuous journey, and I love building projects that refl
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanmarkos&show_icons=true&theme=github_dark&hide_border=true&card_width=450" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanmarkos&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmarkos&layout=compact&theme=github_dark&hide_border=true&card_width=450" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanmarkos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
